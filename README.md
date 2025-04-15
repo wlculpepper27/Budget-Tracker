@@ -1,26 +1,99 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/20haF4f9)
-**Major Program Workflow:**
+💰 Budget Tracker
+Budget Tracker is a Java-based graphical user interface (GUI) application designed to help users manage their personal finances effectively. It allows users to track income and expenses, categorize transactions, and monitor their overall budget.
 
--   After accepting the assignment, you need to clone the MP1 repository
-    on your local machine. You now have one branch (main branch).
 
--   You should now create a new branch by clicking "main" in the title
-    bar in IntelliJ and selecting new branch. Name your branch Level-1.
-    Level-1 should now be your active branch.
+📦 Project Structure
 
--   Make all your Level-1 changes as described in the assignment
-    description on this level. Please commit your changes and push them
-    to GitHub after each work session to safeguard your work.
+Budget-Tracker/
+├── BudgetTrackerGUI/
+│   └── src/
+│       └── [Java source files]
+├── out/
+│   └── production/
+│       └── major-program-1-budgettracker-wlculpepper27/
+├── budgetdata.txt
+├── budgetdataV3.txt
+├── input1.txt
+├── output.txt
+├── BudgetTracker.iml
+├── major-program-1-budgettracker-wlculpepper27.iml
+├── Major Programming Assignment 1.pdf
+└── README.md
 
--   When Level-1 is done, make sure you have committed and pushed all
-    your changes. Go to your repository on the GitHub site and select
-    Pull Request. Choose your TA. Your TA will be notified and will look
-    over your code. When they are done, your Level-1 branch will be
-    merged with your main branch.
 
--   If you want to start Level-2 before your Level-1 branch has been
-    merged, then make sure you branch off of Level-1 for Level-2. If you
-    start Level-2 after Level-1 has been merged, then you can branch off
-    the main branch.
+BudgetTrackerGUI/src/: Contains the Java source code for the GUI application.
 
--   This same procedure will be repeated at each level.
+out/production/: Compiled Java classes.
+
+budgetdata.txt, budgetdataV3.txt, input1.txt, output.txt: Sample data and output files.
+
+BudgetTracker.iml, major-program-1-budgettracker-wlculpepper27.iml: IntelliJ IDEA project files.
+
+Major Programming Assignment 1.pdf: Assignment description and requirements.
+
+README.md: Project documentation.
+
+
+🛠 Features
+User-Friendly GUI: Intuitive interface for easy navigation and data entry.
+
+Income and Expense Tracking: Record and categorize financial transactions.
+
+Budget Monitoring: View summaries of income, expenses, and remaining budget.
+
+Data Persistence: Save and load budget data from text files.
+
+Sample Data: Includes sample input and output files for testing and demonstration.
+
+
+🚀 Getting Started
+Prerequisites
+Java Development Kit (JDK) 8 or higher
+
+IntelliJ IDEA or any Java IDE of your choice
+
+Installation
+Clone the repository:
+
+bash
+git clone https://github.com/wlculpepper27/Budget-Tracker.git
+cd Budget-Tracker
+Open the project:
+
+Launch your Java IDE.
+
+Open the BudgetTracker.iml or major-program-1-budgettracker-wlculpepper27.iml project file.
+
+Build and run the application:
+
+Compile the project.
+
+Run the main class to launch the GUI application.
+
+📄 Usage
+Launch the application:
+
+Upon running the main class, the GUI window will appear.
+
+Add Transactions:
+
+Use the interface to input income and expense transactions.
+
+Categorize each transaction appropriately.
+
+
+View Budget Summary:
+
+The application will display summaries of your financial data, including total income, total expenses, and remaining budget.
+
+Save and Load Data:
+
+Use the provided options to save your budget data to a file or load existing data.
+
+
+📚 Documentation
+For detailed information about the application's functionality and requirements, refer to the Major Programming Assignment 1.pdf file included in the repository.
+
+
+👤 Author
+GitHub: @wlculpepper27
