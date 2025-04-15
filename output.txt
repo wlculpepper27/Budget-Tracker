@@ -1,0 +1,58 @@
+Jack
+Sprat
+
+Address: 1345 Maple Avenue, Greensboro, NC 27408
+Phone Number: 336-375-2446
+Email: jsprat@ncat.edu
+[350.00 0 Auto
+Automotive payment and maintenance
+1000.0
+0, 450.00 0 Food
+Groceries and eating out.
+125.0
+0, 2500.00 1 Work Check
+Income from My Company, Inc.
+200.0
+0, 50.00 0 Clothes
+New clothes and dry cleaning
+100.0
+0, 75.00 0 Miscellaneous
+Various unexpected expenses
+100.0
+0, 250.00 0 Investments
+Mutual fund investments.
+500.0
+1, 0
+Gas
+300.0
+0]
+1825.0
+500.0
+350.00 0 Auto
+No date
+1000.0
+Automotive payment and maintenance
+450.00 0 Food
+No date
+125.0
+Groceries and eating out.
+2500.00 1 Work Check
+No date
+200.0
+Income from My Company, Inc.
+50.00 0 Clothes
+No date
+100.0
+New clothes and dry cleaning
+75.00 0 Miscellaneous
+No date
+100.0
+Various unexpected expenses
+250.00 0 Investments
+No date
+500.0
+Mutual fund investments.
+0
+No date
+300.0
+Gas

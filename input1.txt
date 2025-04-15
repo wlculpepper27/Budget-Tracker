@@ -1,0 +1,13 @@
+Jack
+Sprat
+
+Address: 1345 Maple Avenue, Greensboro, NC 27408
+Phone Number: 336-375-2446
+Email: jsprat@ncat.edu
+[]
+1000.0
+0.0
+Housing
+No date
+1000.0
+

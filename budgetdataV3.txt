@@ -1,0 +1,105 @@
+Jack 
+Sprat
+1345 Maple Avenue, Greensboro, NC 27408
+336-375-2446
+jsprat@ncat.edu
+1000.00 0 Housing
+Housing expenses
+350.00 0 Auto 
+Automotive payment and maintenance
+125.00 0 Gas 
+Gas for the car and lawnmower.
+450.00 0 Food 
+Groceries and eating out.
+200.00 0 Insurance 
+Car and Life insurance
+2500.00 1 Work Check
+Income from My Company, Inc.
+100.00 0 Savings 
+Monhly savings for emergencies
+50.00 0 Clothes 
+New clothes and dry cleaning
+100.00 0 Entertainment 
+
+75.00 0 Miscellaneous
+Various unexpected expenses
+500.00 1 Rental Income 
+Income from 2nd house.
+250.00 0 Investments 
+Mutual fund investments.
+300.00 0 Giving/Church 
+Church tithes and other giving
+0
+Gas
+2/3/2025 48.00
+Gas for Minivan
+Savings
+2/1/2025 100
+Rainy day fund
+Food
+2/3/2025 150.35
+Groceries
+Insurance
+2/8/2025 70.50
+Term Life Insurance
+Work Check
+2/1/2025 1250.00
+February salary - 1st check
+Housing
+2/1/2025 650.00 
+Rent for February
+Food
+2/10/2025 35.00
+Golden Corral
+Gas
+2/3/2025 35.00
+Gas for car
+Auto 
+2/5/2025 325.00
+Car Payment 
+Housng
+2/8/2025 275.00 
+Utilities (water, electric and gas)
+Investments 
+2/25/2025 125.00
+Vanguard Growth Fund
+Investments
+2/25/2025 125.00
+SMI S&P Index Fund
+Food
+2/19/2025 175.00
+Groceries from Sam's club
+Food
+2/27/2025 51.43
+Farmer's Market
+Giving/Church
+2/1/2025 300.00
+Tithes and Offering
+Housing
+2/3/2025 30.50 
+Minor repairs
+Auto
+2/25/16 23.99
+Wiper blades
+Clothes
+2/17/2025 11.99
+ACM T-Shirt
+Entertainment
+2/14/2025 75.00
+Dinner and a movie
+Rental Income
+2/10/2025 500.00
+Rent check for February
+Insurance
+2/2/2025 125.99
+State Farm Auto Insurance
+Miscellaneous
+2/15/2025 20.45
+Valentine gift
+Work Check
+2/15/2025 1250.00
+February salary - 2nd check
+Gas
+2/13/2025 35.00
+Gas for car
+

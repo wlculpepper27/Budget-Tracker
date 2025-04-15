@@ -1,0 +1,59 @@
+#Craft
+#MovingSprite
+50 50 254.31 1 5 500 500
+296.02 0 100
+#PhotonTorpedo
+#Torpedo
+#MovingSprite
+192.47 170.32 352.83 7.5 10 500 500
+10
+2
+#RadialBomb
+#Torpedo
+#MovingSprite
+374.9 57.2 68.17 2.5 5 500 500
+15
+3.5
+#PhotonTorpedo
+#Torpedo
+#MovingSprite
+362.5 124.92 166.75 4.3 10 500 500
+10
+3
+*
+#MeteorField
+#Meteor
+#MovingSprite
+210.36 94.1 268.52 1.3 3 500 500
+20 20 15 50.7 29.3
+#Meteor
+#MovingSprite
+331.37 370.51 69.96 2.4 6 500 500
+20 5 20 200.46 250.1
+#Meteor
+#MovingSprite
+80.7 134.01 162.53 0.2 2 500 500
+20 10 18 100.93 56.2
+#Meteor
+#MovingSprite
+34.2 202.1 162.53 4.7 5 500 500
+20 15 10 175.49 163.8
+*
+#DamageBoost
+#PowerUp
+#MovingSprite
+83.01 404.12 271.65 2 5 500 500
+15
+10 7
+#ShieldBoost
+#PowerUp
+#MovingSprite
+433.09 464.27 159.47 3 5 500 500
+30
+25
+#ShieldBoost
+#PowerUp
+#MovingSprite
+361.81 231.4 351.07 4 5 500 500
+15
+15
