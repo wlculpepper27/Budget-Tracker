@@ -2,6 +2,7 @@
 Budget Tracker is a Java-based graphical user interface (GUI) application designed to help users manage their personal finances effectively. It allows users to track income and expenses, categorize transactions, and monitor their overall budget.
 
 
+
 📦 Project Structure
 
 Budget-Tracker/
